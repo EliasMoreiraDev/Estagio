@@ -7,7 +7,7 @@ function App() {
       <h1>Hello World</h1>
       <button type="button">Click</button>
     </div>
-  );
+  ); 
 }
 
 export default App;
